@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="update_geocode">Update Geocode</string>
+    <string name="address">Address</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add_location">Add Location</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="find_coordinates">Find Coordinates</string>
+    <string name="enter_longitude">Enter Longitude</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="find_address">Find Address</string>
+    <string name="add_to_database">Add to Database</string>
+    <string name="search_location">Search location</string>
+    <string name="add_geocode">Add Geocode</string>
+    <string name="location_image">Location Image</string>
+</resources>
